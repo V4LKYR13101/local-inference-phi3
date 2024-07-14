@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)\microsoft.ml.onnxruntimegenai.managed\0.3.0\build\net8.0\Microsoft.ML.OnnxRuntimeGenAI.Managed.targets" Condition="Exists('$(NuGetPackageRoot)\microsoft.ml.onnxruntimegenai.managed\0.3.0\build\net8.0\Microsoft.ML.OnnxRuntimeGenAI.Managed.targets')" />
+    <Import Project="$(NuGetPackageRoot)\microsoft.ml.onnxruntimegenai\0.3.0\build\net8.0\Microsoft.ML.OnnxRuntimeGenAI.targets" Condition="Exists('$(NuGetPackageRoot)\microsoft.ml.onnxruntimegenai\0.3.0\build\net8.0\Microsoft.ML.OnnxRuntimeGenAI.targets')" />
+  </ImportGroup>
+</Project>

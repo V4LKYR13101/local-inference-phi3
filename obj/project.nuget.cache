@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1NA5fp3zScw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrlog\\source\\repos\\ONNX\\ONNX.csproj",
+  "expectedPackageFiles": [
+    "D:\\n\\microsoft.ml.onnxruntimegenai\\0.3.0\\microsoft.ml.onnxruntimegenai.0.3.0.nupkg.sha512",
+    "D:\\n\\microsoft.ml.onnxruntimegenai.managed\\0.3.0\\microsoft.ml.onnxruntimegenai.managed.0.3.0.nupkg.sha512",
+    "D:\\n\\system.speech\\8.0.0\\system.speech.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
