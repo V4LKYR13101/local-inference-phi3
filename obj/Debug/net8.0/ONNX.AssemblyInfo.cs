@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ONNX")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83b022fb98453c45a700a10b78b43f5b4f3c773f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ONNX")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ONNX")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
